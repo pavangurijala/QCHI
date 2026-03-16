@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pavangurijala.github.io/sitemap.xml
